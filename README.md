@@ -1,1 +1,1 @@
-# MozillaTN17
+# CoderDojo - Coimbatore
